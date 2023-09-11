@@ -70,3 +70,21 @@ Acessando o recurso real: Recurso A
 Você não tem permissão para acessar o recurso: Recurso B
 ```
 </details>
+
+<details>
+<summary>SOLID: SRP</summary>
+
+```Java
+  Antes de aplicar o SRP  
+----------------------------
+Relatório do Funcionário:
+Nome: João
+Salário: 5000.0
+
+  Depois de aplicar o SRP  
+----------------------------
+Relatório do Funcionário:
+Nome: João
+Salário: 5000.0
+```
+</details>
