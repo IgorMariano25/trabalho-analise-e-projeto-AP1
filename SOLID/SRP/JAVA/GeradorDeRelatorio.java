@@ -1,4 +1,4 @@
-package SOLID.SRP;
+package SOLID.SRP.JAVA;
 
 // Classe separada para gerar relatórios
 class GeradorDeRelatorio {

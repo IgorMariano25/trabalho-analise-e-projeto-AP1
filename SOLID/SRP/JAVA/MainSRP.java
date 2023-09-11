@@ -1,4 +1,4 @@
-package SOLID.SRP;
+package SOLID.SRP.JAVA;
 
 public class MainSRP {
     public static void main(String[] args) {

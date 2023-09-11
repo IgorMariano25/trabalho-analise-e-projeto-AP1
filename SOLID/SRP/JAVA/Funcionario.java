@@ -1,4 +1,4 @@
-package SOLID.SRP;
+package SOLID.SRP.JAVA;
 
 // Classe original com várias responsabilidades
 class Funcionario {
