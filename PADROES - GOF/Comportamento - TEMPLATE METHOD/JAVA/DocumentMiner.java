@@ -1,3 +1,4 @@
+package JAVA;
 // // Classe abstrata que define o Template Method
 // abstract class DocumentMiner {
 //     boolean anyDocumentProcessed = false;

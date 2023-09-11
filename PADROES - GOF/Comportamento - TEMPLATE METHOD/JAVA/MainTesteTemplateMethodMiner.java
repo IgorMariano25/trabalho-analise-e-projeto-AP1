@@ -1,3 +1,4 @@
+package JAVA;
 public class MainTesteTemplateMethodMiner {
     public static void main(String[] args) {
 
