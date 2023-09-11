@@ -55,3 +55,18 @@ Fechando documento PDF: Documento.pdf
 ---------------------------------------
 ```
 </details>
+
+<details>
+<summary>Estrutura: Proxy</summary>
+
+```Java
+------------------------------------------------
+ [ OK ] Acesso Permitido: Credenciais Corretas  
+------------------------------------------------
+Acessando o recurso real: Recurso A
+------------------------------------------------
+ [ X ] Acesso negado: Credenciais Inválidas     
+------------------------------------------------
+Você não tem permissão para acessar o recurso: Recurso B
+```
+</details>
