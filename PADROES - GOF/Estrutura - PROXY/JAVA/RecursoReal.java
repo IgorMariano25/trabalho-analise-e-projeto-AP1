@@ -1,3 +1,4 @@
+package JAVA;
 class RecursoReal implements IRecurso {
     private String nomeRecurso;
 

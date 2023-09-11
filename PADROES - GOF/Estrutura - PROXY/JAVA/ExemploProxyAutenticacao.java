@@ -1,3 +1,4 @@
+package JAVA;
 public class ExemploProxyAutenticacao {
     public static void main(String[] args) {
         // Tentativa de acesso aos recursos protegidos usando um Proxy

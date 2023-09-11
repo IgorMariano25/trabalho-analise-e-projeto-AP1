@@ -1,3 +1,4 @@
+package JAVA;
 // package PADROES - GOF.Estrutura - PROXY;
 class ProxyRecurso implements IRecurso {
     private RecursoReal recursoReal;
