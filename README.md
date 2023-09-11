@@ -21,3 +21,37 @@ Potência do Motor: 2.6
 ------------------------------
 ```
 </details>
+
+<details>
+<summary>Comportamento: Template Method</summary>
+
+```Java
+---------------------------------------
+    Iniciando Leitura de Documentos      
+---------------------------------------  
+
+Abrindo documento DOC: Documento.csv
+Extraindo dados de um documento DOC
+Status da leitura: Lendo arquvivo...
+Leitura concluída com sucesso !
+Fechando documento DOC: Documento.csv
+
+---------- Próximo Arquivo ----------
+Abrindo documento CSV: Documento.csv
+Extraindo dados de um documento CSV
+Status da leitura: Lendo arquvivo...
+Leitura concluída com sucesso !
+Fechando documento CSV: Documento.csv
+
+---------- Próximo Arquivo ----------
+Abrindo documento PDF: Documento.pdf
+Extraindo dados de um documento PDF
+Status da leitura: Lendo arquvivo...
+Leitura concluída com sucesso !
+Fechando documento PDF: Documento.pdf
+
+---------------------------------------
+   Leitura Finalizada com sucesso !    
+---------------------------------------
+```
+</details>
