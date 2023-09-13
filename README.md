@@ -89,3 +89,12 @@ Nome: João
 Salário: 5000.0
 ```
 </details>
+
+<details>
+<summary>PSOO - BRIDGE</summary>
+
+```Java
+API1 desenha o círculo no ponto (1, 2) com raio 3
+API2 desenha o círculo no ponto (5, 7) com raio 11
+```
+</details>
