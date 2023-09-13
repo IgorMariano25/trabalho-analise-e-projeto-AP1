@@ -48,6 +48,16 @@ Filtragem de Conteúdo: Proxies podem ser configurados para bloquear ou filtrar 
 Em resumo, uma estrutura de proxy é uma camada intermediária que gerencia e otimiza a comunicação entre clientes e servidores, oferecendo controle, segurança e melhoria de desempenho.
 </details>
 
+<details>
+<summary>SOLID - SRP  </summary>
+
+O SOLID é um conjunto de princípios de design de software que ajudam a criar código mais limpo, flexível e fácil de manter. O SRP, ou Princípio da Responsabilidade Única (Single Responsibility Principle), é o primeiro desses princípios e sugere o seguinte:
+
+**Cada classe deve ter uma única responsabilidade.**
+
+Isso significa que uma classe deve ter apenas um motivo para mudar. Em outras palavras, ela deve ter uma tarefa específica e não deve estar sobrecarregada com várias responsabilidades diferentes. Manter uma única responsabilidade em cada classe torna o código mais organizado, compreensível e facilita a manutenção, pois as mudanças em uma responsabilidade não afetam outras partes do sistema de forma inesperada.
+</details>
+
 ## Respostas de Execução de cada código
 <details>
 <summary>Criação: Builder</summary>
