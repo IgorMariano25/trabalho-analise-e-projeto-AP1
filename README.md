@@ -7,6 +7,17 @@ Repositório criado para adicionar os arquivos referentes ao Trabalho Analise Pr
 - **[Arquivos SOLID - SRP](https://github.com/IgorMariano25/trabalho-analise-e-projeto-AP1/tree/main/SOLID/SRP/JAVA)** 🪨🧱
 - **[Arquivos PSOO - BRIDGE](https://github.com/IgorMariano25/trabalho-analise-e-projeto-AP1/tree/main/PSOO/BRIDGE)** 🌉⛓️
 
+## Explicação de cada Tópico 🔤
+<details>
+<summary>Criação: Builder</summary>
+   
+O padrão Builder é uma técnica de design de software que simplifica a criação de objetos complexos passo a passo. Imagine que você está construindo uma casa com muitos detalhes personalizáveis, como o tipo de telhado, o número de quartos, a cor das paredes e assim por diante. Usar um único método de construção para especificar todos esses detalhes seria complicado e difícil de entender.
+   
+Para resolver esse problema, o padrão Builder envolve a criação de um "construtor" separado para o objeto, que é como um formulário de pedido de casa personalizada. Você preenche o formulário passo a passo, escolhendo o tipo de telhado, o número de quartos e assim por diante. Uma vez que você tenha preenchido todos os detalhes que deseja, você "constrói" a casa. O construtor então usa as informações fornecidas no formulário para criar a casa com os detalhes específicos que você escolheu.
+
+Isso torna a construção de objetos mais intuitiva, flexível e legível, especialmente quando você tem muitos parâmetros opcionais ou quando a ordem em que os atributos são configurados é importante. O padrão Builder é uma ferramenta valiosa para criar objetos complexos de forma organizada e compreensível, evitando a necessidade de construtores com muitos parâmetros.
+</details>
+
 ## Respostas de Execução de cada código
 <details>
 <summary>Criação: Builder</summary>
