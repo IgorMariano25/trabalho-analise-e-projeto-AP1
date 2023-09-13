@@ -28,6 +28,26 @@ A ideia por trás do Comportamento "Template Method" é separar o esqueleto do a
 Em resumo, o Comportamento "Template Method" é uma abordagem de design que permite definir um padrão geral para a execução de um processo e permite que subclasses personalizem partes específicas desse processo de acordo com suas necessidades.
 </details>
 
+<details>
+<summary>Estrutura: Proxy </summary>
+
+Uma estrutura de proxy é um componente intermediário que atua como um intermediário entre um cliente e um servidor. Sua função principal é facilitar e controlar o acesso dos clientes aos recursos do servidor. Isso é feito de várias maneiras, incluindo:
+
+Encaminhamento de Requisições: O proxy recebe as solicitações dos clientes e encaminha essas solicitações para o servidor correspondente.
+
+Cache: Muitas vezes, o proxy armazena em cache as respostas do servidor para solicitações frequentes dos clientes. Isso pode melhorar o desempenho e reduzir a carga no servidor.
+
+Controle de Acesso: O proxy pode ser configurado para controlar quem pode acessar o servidor, com base em regras predefinidas. Isso ajuda a reforçar a segurança.
+
+Anonimato: Alguns proxies são usados para ocultar o endereço IP do cliente, protegendo sua privacidade na internet.
+
+Balanceamento de Carga: Proxies podem distribuir o tráfego entre vários servidores, garantindo que nenhum deles fique sobrecarregado.
+
+Filtragem de Conteúdo: Proxies podem ser configurados para bloquear ou filtrar determinados tipos de conteúdo da web, como sites maliciosos ou inadequados.
+
+Em resumo, uma estrutura de proxy é uma camada intermediária que gerencia e otimiza a comunicação entre clientes e servidores, oferecendo controle, segurança e melhoria de desempenho.
+</details>
+
 ## Respostas de Execução de cada código
 <details>
 <summary>Criação: Builder</summary>
