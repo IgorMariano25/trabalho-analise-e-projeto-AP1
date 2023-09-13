@@ -29,7 +29,7 @@ Em resumo, o Comportamento "Template Method" é uma abordagem de design que perm
 </details>
 
 <details>
-<summary>Estrutura: Proxy </summary>
+<summary>Estrutura: Proxy</summary>
 
 Uma estrutura de proxy é um componente intermediário que atua como um intermediário entre um cliente e um servidor. Sua função principal é facilitar e controlar o acesso dos clientes aos recursos do servidor. Isso é feito de várias maneiras, incluindo:
 
@@ -49,13 +49,25 @@ Em resumo, uma estrutura de proxy é uma camada intermediária que gerencia e ot
 </details>
 
 <details>
-<summary>SOLID - SRP  </summary>
+<summary>SOLID - SRP</summary>
 
 O SOLID é um conjunto de princípios de design de software que ajudam a criar código mais limpo, flexível e fácil de manter. O SRP, ou Princípio da Responsabilidade Única (Single Responsibility Principle), é o primeiro desses princípios e sugere o seguinte:
 
 **Cada classe deve ter uma única responsabilidade.**
 
 Isso significa que uma classe deve ter apenas um motivo para mudar. Em outras palavras, ela deve ter uma tarefa específica e não deve estar sobrecarregada com várias responsabilidades diferentes. Manter uma única responsabilidade em cada classe torna o código mais organizado, compreensível e facilita a manutenção, pois as mudanças em uma responsabilidade não afetam outras partes do sistema de forma inesperada.
+</details>
+
+<details>
+<summary>PSOO - BRIDGE </summary>
+
+No contexto de programação Java, "BRIDGE" geralmente se refere ao padrão de design de software chamado "Bridge Pattern". Este padrão é usado para separar uma classe abstrata de sua implementação, permitindo que ambas possam evoluir independentemente sem afetar uma à outra.
+
+Em termos simples, o Bridge Pattern é usado quando você tem uma hierarquia de classes com duas dimensões de variação. Uma dimensão é representada pela classe abstrata, que define a interface principal, e a outra dimensão é representada pelas implementações concretas que implementam essa interface.
+
+Isso permite que você tenha diferentes implementações para a mesma interface sem que elas estejam fortemente acopladas. Isso é útil quando você precisa alterar ou adicionar implementações sem afetar o código que usa a interface abstrata.
+
+Em resumo, o Bridge Pattern é uma técnica de design usada em programação Java para separar uma abstração (classe abstrata) de sua implementação (classes concretas) para tornar o sistema mais flexível e de fácil manutenção.
 </details>
 
 ## Respostas de Execução de cada código
