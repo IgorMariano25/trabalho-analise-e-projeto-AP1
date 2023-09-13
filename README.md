@@ -70,7 +70,7 @@ Isso permite que você tenha diferentes implementações para a mesma interface 
 Em resumo, o Bridge Pattern é uma técnica de design usada em programação Java para separar uma abstração (classe abstrata) de sua implementação (classes concretas) para tornar o sistema mais flexível e de fácil manutenção.
 </details>
 
-## Respostas de Execução de cada código
+## Respostas de Execução de cada código ⏯️
 <details>
 <summary>Criação: Builder</summary>
 
