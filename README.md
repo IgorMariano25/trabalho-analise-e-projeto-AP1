@@ -18,6 +18,16 @@ Para resolver esse problema, o padrão Builder envolve a criação de um "constr
 Isso torna a construção de objetos mais intuitiva, flexível e legível, especialmente quando você tem muitos parâmetros opcionais ou quando a ordem em que os atributos são configurados é importante. O padrão Builder é uma ferramenta valiosa para criar objetos complexos de forma organizada e compreensível, evitando a necessidade de construtores com muitos parâmetros.
 </details>
 
+<details>
+<summary>Comportamento: Template Method</summary>
+
+O Comportamento "Template Method" é um padrão de projeto de software que define a estrutura básica de um algoritmo em uma classe base (ou superclasse) e permite que subclasses específicas forneçam implementações detalhadas para partes desse algoritmo. Em termos simples, ele cria um "modelo" ou "template" para um processo e deixa partes específicas desse processo serem preenchidas por classes filhas.
+
+A ideia por trás do Comportamento "Template Method" é separar o esqueleto do algoritmo das etapas específicas que podem variar de uma subclasse para outra. Isso ajuda a promover a reutilização de código e facilita a manutenção, pois as mudanças em partes comuns do algoritmo podem ser feitas na classe base, afetando todas as subclasses.
+
+Em resumo, o Comportamento "Template Method" é uma abordagem de design que permite definir um padrão geral para a execução de um processo e permite que subclasses personalizem partes específicas desse processo de acordo com suas necessidades.
+</details>
+
 ## Respostas de Execução de cada código
 <details>
 <summary>Criação: Builder</summary>
