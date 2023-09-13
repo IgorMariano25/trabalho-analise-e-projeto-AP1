@@ -5,6 +5,7 @@ Repositório criado para adicionar os arquivos referentes ao Trabalho Analise Pr
 - **[Arquivos Padrões GoF - Comportamento: Template Method](https://github.com/IgorMariano25/trabalho-analise-e-projeto-AP1/tree/main/PADROES%20-%20GOF/Comportamento%20-%20TEMPLATE%20METHOD/JAVA)** ⚙️🪛
 - **[Arquivos Padrões GoF - Estrutura: Proxy](https://github.com/IgorMariano25/trabalho-analise-e-projeto-AP1/tree/main/PADROES%20-%20GOF/Estrutura%20-%20PROXY/JAVA)** 🛡️🔒
 - **[Arquivos SOLID - SRP](https://github.com/IgorMariano25/trabalho-analise-e-projeto-AP1/tree/main/SOLID/SRP/JAVA)** 🪨🧱
+- **[Arquivos PSOO - BRIDGE](https://github.com/IgorMariano25/trabalho-analise-e-projeto-AP1/tree/main/PSOO/BRIDGE)** 🌉⛓️
 
 ## Respostas de Execução de cada código
 <details>
